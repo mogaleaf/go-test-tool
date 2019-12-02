@@ -9,9 +9,9 @@ import (
 )
 
 //
-var myFilePathHERE = "/Users/cecile/master/repo/go/evolution/genes.go"
-var myInterfaceNameHere = "PhenotypeI"
-var whichPackageReturnHere = ""
+var myFilePathHERE = "PAST_YOUR_FILE_PATH_CONTAINING_THE_INTERFACE"
+var myInterfaceNameHere = "PAST_YOUR_INTERFACE_NAME"
+var whichPackageReturnHere = "PAST_THE_RETURN_STRUCT_PACKAGE"
 
 var r = strings.NewReplacer("*", "*")
 
